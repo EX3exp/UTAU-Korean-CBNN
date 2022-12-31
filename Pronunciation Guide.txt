@@ -6,20 +6,20 @@
 If you want your UTAU sing more native, keep your mind these:
 
 1)
-¤¡, ¤§, ¤², ¤¸(= g, d, b, j) are "voiced consonant" though, but if they come as "first" syllable, They become "unvoiced consonant".
+ã„±, ã„·, ã…‚, ã…ˆ(= g, d, b, j) are "voiced consonant" though, but if they come as "first" syllable, They become "unvoiced consonant".
 So they sound as [k, t, p, ch], not [g, d, b, j]. (You must pronounce [- ga] as [- ka], keeping accent of [- ga].) 
 
 But if they come as "non-first" syllable, there's nothing to care. You can just pronounce them as [g, d, b, j].
 
-For example: You can pronounce "°­°­¼ú·¡(¢ÙgaNG ¢ÖgaNG¡æ suL¢Ù le)" as "Ä²°­¼ú·¡(¢ÙkaNG ¢ÖgaNG¡æ suL¢Ù le)".
+For example: You can pronounce "ê°•ê°•ìˆ ë˜(â†˜gaNG â†—gaNGâ†’ suLâ†˜ le)" as "ìº‰ê°•ìˆ ë˜(â†˜kaNG â†—gaNGâ†’ suLâ†˜ le)".
 
 2)
-¤© has two sounds, "r" and "rl".
+ã„¹ has two sounds, "r" and "rl".
 It may seem difficult but there's no problem.
 
-You can pronounce '¤©' as 'rl' only in this case: 
-when "two ¤© (=¤©¤©)" comes, like ¶ö¶ó(¤©¤¿"¤©¤©"¤¿).
-In that case, one ¤© will be "ordinary consonant", and other will be "final consonant(=batchim)".
+You can pronounce 'ã„¹' as 'rl' only in this case: 
+when "two ã„¹ (=ã„¹ã„¹)" comes, like ë„ë¼(ã„¹ã…"ã„¹ã„¹"ã…).
+In that case, one ã„¹ will be "ordinary consonant", and other will be "final consonant(=batchim)".
 
 ----
 
