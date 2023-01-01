@@ -66,5 +66,5 @@
 
 ## 4. Reference
 - 현재까지 공개된 모든 UTAU 한국어 음원 형식들 
-- NANA/ OpenUtau Korean CVC Phonemizer <br>
+- NANA/OpenUtau Korean CVC Phonemizer <br>
 - 장향실. 2014. "외국인을 위한 한국어 발음 교육에서 음운의 제시 순서 연구". 한국언어문화학, 11(3): 221-245
