@@ -2,8 +2,8 @@
 - Repository for `recording list` &amp; `oto.ini` &amp; `guide` &amp; `OpenUtau Phonemizer.cs` of "Korean Combination" reclist. (for UTAU)
 - similar with Korean CVC, easy-to-record, sings with most natural Korean.
 - recording = 606 <br>alias = 3390
-- DEMO is here:
-- Prototype Voicebank is here: 
+- [DEMO is here](https://www.youtube.com/watch?v=kPg3XYrKIMQ)
+- [Prototype Voicebank is here](https://inthe6788.wixsite.com/nero-the-black-cat/utau)
 
 ## Table Of Contents 
 - [UTAU-Korean-CBNN](#utau-korean-cbnn)
