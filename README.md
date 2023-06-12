@@ -10,20 +10,20 @@
 
 
 ## 💫Table Of Contents 
-- [UTAU-Korean-CBNN](#utau-korean-cbnn)
-  * [1.🤔About](#1-about)
-    + [💡우타우도 한국어 할 수 있어!](#-우타우도-한국어-할-수-있어)
-    + [💡한국어 음원형식 패러다임의 전환](#-한국어-음원형식-패러다임의-전환)
-    + [💡받침의 청각적 식별에 있어 모음의 중요성](#-받침의-청각적-식별에-있어-모음의-중요성)
-  * [2.🥳Getting Started](#2--getting-started)
-    + [-💡For reclist](#--for-reclist)
-    + [-💡For OpenUtau phonemizer use](#--for-openutau-phonemizer-use)
-  * [3.🧐How to otoing](#3--how-to-otoing)
-    + [1.💡- CV](#1---cv)
-    + [2.💡 CV](#2--cv)
-    + [3.💡 VX](#3--vx)
-    + [4.💡 Vowels](#4--vowels)
-   * [4.😊Reference](#4--reference)
+- [1.🤔About](#1--about)
+  * [💡우타우도 한국어 할 수 있어!](#------------------)
+  * [💡한국어 음원형식 패러다임의 전환](#-------------------)
+  * [💡받침의 청각적 식별에 있어 모음의 중요성](#------------------------)
+- [2.🥳Getting Started](#2--getting-started)
+  * [-💡For reclist](#---for-reclist)
+  * [-💡For OpenUtau phonemizer use](#---for-openutau-phonemizer-use)
+- [3.🧐How to otoing](#3--how-to-otoing)
+  * [1.💡- CV](#1----cv)
+  * [2.💡CV](#2--cv)
+  * [3.💡VX](#3--vx)
+  * [4.💡Vowels](#4--vowels)
+- [4.😊Reference](#4--reference)
+
 
 ## 1.🤔About
 - ※Only Korean 
@@ -73,7 +73,7 @@
 - ![5  Vowels](https://user-images.githubusercontent.com/100339835/210085213-4398a400-72ff-4c2c-aa9f-7182e6640722.jpg)
 - 평범한 모음처럼 원설합니다.
 
-## 4. Reference
+## 4.😊Reference
 - 현재까지 공개된 모든 UTAU 한국어 음원 형식들 
 - NANA/ OpenUtau Korean CVC Phonemizer <br>
 - 장향실. 2014. "외국인을 위한 한국어 발음 교육에서 음운의 제시 순서 연구". 한국언어문화학, 11(3): 221-245
