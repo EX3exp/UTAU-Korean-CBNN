@@ -10,18 +10,18 @@
 
 
 ## 💫Table Of Contents 
-- [1.🤔About](#1about)
+- [1.🤔개요_About](#1about)
   - [💡우타우도 한국어 할 수 있어!](#우타우도-한국어-할-수-있어)
   - [💡한국어 음원형식 패러다임의 전환](#한국어-음원형식-패러다임의-전환)
   - [💡받침의 청각적 식별에 있어 모음의 중요성](#받침의-청각적-식별에-있어-모음의-중요성)
-- [2.🥳Getting Started](#2getting-started)
-  - [-💡For reclist](#-for-reclist)
-  - [-💡For OpenUtau phonemizer use](#-for-openutau-phonemizer-use)
-- [3.🧐How to otoing](#3how-to-otoing)
+- [2.🥳듀토리얼_Getting Started](#2getting-started)
+  - [-💡녹음 리스트 다운로드_For reclist🐣](#-for-reclist)
+  - [-💡옾타우 포네마이저 사용_For OpenUtau phonemizer use](#-for-openutau-phonemizer-use)
+- [3.🧐원음설정 가이드_How to otoing](#3how-to-otoing)
   - [1.💡- CV](#1--cv)
   - [2.💡CV](#2cv)
   - [3.💡VX](#3vx)
-  - [4.💡Vowels](#4vowels)
+  - [4.💡모음_Vowels](#4vowels)
 - [4.😊Reference](#4reference)
 
 ## 1.🤔About
@@ -47,7 +47,8 @@
 
 ![image](https://github.com/EX3exp/UTAU-Korean-CBNN/assets/100339835/e9d0233f-6505-497e-83af-737f7c07cf55)
 <br><br>
-OpenUtau에 CBNN 포네마이저가 들어간 지금은 필요 없겠지만... 만일의 상황을 대비해 CBNN음소화기 체험판을 Release에 남겨 두었습니다. 아무튼 이 포네마이저는 `README.md`의 3번째 항목에서 설명하고 있는 원음설정 방식을 준수할 경우에 최상의 결과물을 뽑아냅니다!
+OpenUtau에 CBNN 포네마이저가 들어간 지금은 필요 없겠지만... 만일의 상황을 대비해 [CBNN음소화기 체험판](https://github.com/EX3exp/UTAU-Korean-CBNN/releases/download/1.0.0/KO_CBNN_Phonemizer_Trial.zip)을 `Release`에 남겨 두었습니다. 
+아무튼 이 포네마이저는 `README.md`의 3번째 항목에서 설명하고 있는 원음설정 방식을 준수할 경우에 최상의 결과물을 뽑아냅니다!
 
 
 ## 2.🥳Getting Started
@@ -55,8 +56,9 @@ OpenUtau에 CBNN 포네마이저가 들어간 지금은 필요 없겠지만... �
 - [Download `Korean CBNN X.X.zip` in `Release`.](https://github.com/EX3exp/UTAU-Korean-CBNN/releases/latest)
 - 발음하기 쉬운 음소순으로 배치해 두었습니다. 녹음할 때 목이 편하다는 소소한 장점도 있어요.
 ### -💡For OpenUtau phonemizer use
-- Use `KO CBNN Phonemizer` at OpenUtau.
-- 현 상황에서는 CBNN 포네마이저 체험판이 필요하지 않습니다. 하지만 만일의 상황을 위해 `Release`의 1.0.0 버전에 남겨 두었답니다. 필요하다면 가져다 쓰시길!
+- Use `KO CBNN Phonemizer` at OpenUtau.<br><br>
+![image](https://github.com/EX3exp/UTAU-Korean-CBNN/assets/100339835/2f95b362-8ed9-41aa-9328-f863c5963a0e)
+<br>
 
 ## 3.🧐How to otoing
 - 이해가 잘 안 된다면... [프로토타입](https://inthe6788.wixsite.com/nero-the-black-cat/utau) 음원을 살펴보며 원음설정을 익히셔도 됩니다. 
