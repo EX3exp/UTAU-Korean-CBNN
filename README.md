@@ -10,20 +10,19 @@
 
 
 ## 💫Table Of Contents 
-- [1.🤔About](#1--about)
-  * [💡우타우도 한국어 할 수 있어!](#------------------)
-  * [💡한국어 음원형식 패러다임의 전환](#-------------------)
-  * [💡받침의 청각적 식별에 있어 모음의 중요성](#------------------------)
-- [2.🥳Getting Started](#2--getting-started)
-  * [-💡For reclist](#---for-reclist)
-  * [-💡For OpenUtau phonemizer use](#---for-openutau-phonemizer-use)
-- [3.🧐How to otoing](#3--how-to-otoing)
-  * [1.💡- CV](#1----cv)
-  * [2.💡CV](#2--cv)
-  * [3.💡VX](#3--vx)
-  * [4.💡Vowels](#4--vowels)
-- [4.😊Reference](#4--reference)
-
+- [1.🤔About](#1about)
+  - [💡우타우도 한국어 할 수 있어!](#----)
+  - [💡한국어 음원형식 패러다임의 전환](#---)
+  - [💡받침의 청각적 식별에 있어 모음의 중요성](#-----)
+- [2.🥳Getting Started](#2getting-started)
+  - [-💡For reclist](#-for-reclist)
+  - [-💡For OpenUtau phonemizer use](#-for-openutau-phonemizer-use)
+- [3.🧐How to otoing](#3how-to-otoing)
+  - [1.💡- CV](#1--cv)
+  - [2.💡CV](#2cv)
+  - [3.💡VX](#3vx)
+  - [4.💡Vowels](#4vowels)
+- [4.😊Reference](#4reference)
 
 ## 1.🤔About
 - ※Only Korean 
