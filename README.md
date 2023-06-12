@@ -11,9 +11,9 @@
 
 ## 💫Table Of Contents 
 - [1.🤔About](#1about)
-  - [💡우타우도 한국어 할 수 있어!](#----)
-  - [💡한국어 음원형식 패러다임의 전환](#---)
-  - [💡받침의 청각적 식별에 있어 모음의 중요성](#-----)
+  - [💡우타우도 한국어 할 수 있어!](#우타우도-한국어-할-수-있어)
+  - [💡한국어 음원형식 패러다임의 전환](#한국어-음원형식-패러다임의-전환)
+  - [💡받침의 청각적 식별에 있어 모음의 중요성](#받침의-청각적-식별에-있어-모음의-중요성)
 - [2.🥳Getting Started](#2getting-started)
   - [-💡For reclist](#-for-reclist)
   - [-💡For OpenUtau phonemizer use](#-for-openutau-phonemizer-use)
