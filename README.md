@@ -10,7 +10,7 @@
 
 
 ## 💫목차_Table Of Contents 
-- [🐣녹음리스트 다운로드 바로가기🐣](https://github.com/EX3exp/UTAU-Korean-CBNN/releases/tag/latest)
+- [🐣녹음리스트 다운로드 바로가기🐣](https://github.com/EX3exp/UTAU-Korean-CBNN/releases/tag/2.0.0)
 - [1.🤔개요_About ⬅️이 항목은 읽지 않고 넘겨도 되요.](#1about)
   - [💡우타우도 한국어 할 수 있어!](#우타우도-한국어-할-수-있어)
   - [💡한국어 음원형식 패러다임의 전환](#한국어-음원형식-패러다임의-전환)
@@ -54,7 +54,7 @@ OpenUtau에 CBNN 포네마이저가 들어간 지금은 필요 없겠지만... �
 
 ## 2.🥳Getting Started
 ### -💡For reclist
-- [Download `Korean CBNN X.X.X.zip` in `Release`.](https://github.com/EX3exp/UTAU-Korean-CBNN/releases/latest)
+- [Download `Korean CBNN X.X.X.zip` in `Release`.](https://github.com/EX3exp/UTAU-Korean-CBNN/releases/tag/2.0.0)
 - 발음하기 쉬운 음소순으로 배치되어 있어요. 녹음할 때 목이 편하다는 소소한 장점이?!
 ### -💡For OpenUtau phonemizer use
 - Use `KO CBNN Phonemizer` at OpenUtau.<br><br>
