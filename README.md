@@ -4,7 +4,7 @@
 - Repository for `recording list` &amp; `oto.ini` &amp; `guide` &amp; `OpenUtau Phonemizer.cs` of **Korean ComBiNatioN** reclist. (for UTAU)
 <br><br>
 - 녹음 수(recording) = 606 <br>에일리어스 수(alias) = 3390<br><br>
-- [프로토타입 음원(NERo)은 여기 있어요 (Prototype Voicebank is here)](https://inthe6788.wixsite.com/nero-the-black-cat/utau)
+- [프로토타입 음원(NERo)은 여기 있어요 (Prototype Voicebank is here)](https://ex3exp.github.io/VB-dister/pages/#)
 - [프로토타입 음원의 데모곡은 여기 있어요 (DEMO is here)](https://www.youtube.com/watch?v=kPg3XYrKIMQ)
 - [샘플로 사용 가능한 CBNN ustx는 여기 있어요 (KO CBNN ustx sample is here)](https://www.youtube.com/watch?v=fNeIBDnApuE) 
 
