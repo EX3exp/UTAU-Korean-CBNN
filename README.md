@@ -4,6 +4,7 @@
   **OpenUtau에 새로운 CBNN 포네마이저가 업데이트될 때까지 체험판을 배포할 예정이니, 하단에서 다운로드받아 주세요💚**)
 <br><br>
 - 녹음 수(recording) = 268 <br>에일리어스 수(alias) = 1679<br><br>
+- Guide BGM = A3 ~ Db5, 120bpm
 
 - [🐣녹음리스트 다운로드 (Download Reclist!)🐣](https://github.com/EX3exp/UTAU-Korean-CBNN/releases/tag/latest)
 - [🐣OpenUtau CBNN 포네마이저 체험판 다운로드! 🐣(Download OpenUtau CBNN Phonemizer DEMO)] ()
