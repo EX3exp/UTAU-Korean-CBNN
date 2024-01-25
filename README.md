@@ -5,7 +5,7 @@
 - 녹음 수(recording) = 268 <br>에일리어스 수(alias) = 1679<br><br>
 - Guide BGM = A3 ~ Db5, 120bpm
 
-- [🐣녹음리스트&가이드BGM 다운로드 (Download Reclist&GuideBGM)🐣](https://github.com/EX3exp/UTAU-Korean-CBNN/releases/tag/latest)
+- [🐣녹음리스트&가이드BGM 다운로드 (Download Reclist&GuideBGM)🐣](https://github.com/EX3exp/UTAU-Korean-CBNN/releases/latest)
 
 ## Prototype
 - [프로토타입 음원은 여기 있어요 (Prototype Voicebank)](https://ex3exp.github.io/VB-dister/pages/#)
