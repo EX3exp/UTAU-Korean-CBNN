@@ -8,8 +8,8 @@
 - 녹음 수(recording) = 268 <br>에일리어스 수(alias) = 1679<br><br>
 - Guide BGM = A3 ~ Db5, 120bpm
 
-- [🐣녹음리스트 다운로드 (Download Reclist!)🐣](https://github.com/EX3exp/UTAU-Korean-CBNN/releases/tag/latest)
-- [🐣OpenUtau CBNN 포네마이저 체험판 다운로드! 🐣(Download OpenUtau CBNN Phonemizer DEMO)] ()
+- [🐣녹음리스트 다운로드 (Download Reclist)🐣](https://github.com/EX3exp/UTAU-Korean-CBNN/releases/tag/latest)
+- [🐣KO CBNN 포네마이저 체험판 다운로드 (KO CBNN Phonemizer DEMO)🐣](https://github.com/EX3exp/OpenUtau/releases/latest/download/win-x64.zip)
 
 ## Prototype
 - [프로토타입 음원은 여기 있어요 (Prototype Voicebank)](https://ex3exp.github.io/VB-dister/pages/#)
